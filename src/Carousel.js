@@ -1,4 +1,4 @@
-import data from "./data.json";
+
 import "./Carousel.scss"
 
 const Carousel = (props) => {
